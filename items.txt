@@ -1,0 +1,17 @@
+16
+Orange,110,19,Teacher,Juice
+Apple,120,20,both,Juice
+Pineapple,130,20,Teacher,Juice
+Lemon,140,19,both,Juice
+Ginger,150,20,both,Juice
+Chocolate,160,10,both,Milkshake
+Vanilla,170,10,both,Milkshake
+Caramel,180,9,both,Milkshake
+Coke,190,19,both,Drink
+Sprite,200,10,both,Drink
+Sting,50,10,students,Drink
+Green Tea,60,50,both,Tea
+Black Tea,60,48,both,Tea
+Cupcakes,10,33,both,Food
+Breakfast Pizza,210,26,both,Food
+Special Donuts,223,6,Teacher,Dish
